@@ -1,6 +1,3 @@
-# terraform-aws-web-application
-Using terraform create aws web application
-
 # Terraform aws web application
 Creating AWS environment for the sample web application. It contains 2 frontends, one caching node and RDS as a database.
 
